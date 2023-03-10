@@ -1,2 +1,2 @@
-# Site-TCC-
-Site para apresentação do aplicativo E-planner, projetado durante o curso de Desenvolvimento de Sistemas
+# TCC_site_apresentacao
+Site de apresentação do app mobile sobre educação financeira.
